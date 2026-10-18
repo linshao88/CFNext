@@ -2,5 +2,17 @@ name = "cfnext"
 main = "CFNext-明文版.js"
 compatibility_date = "2026-10-18"
 
+[[kv_namespaces]]
+binding = "K"
+id = "432d9ba3f09b4ffab321348d9f80a4ee"
+
+[vars]
+login = "panel-8f3d2a1b"
+U = "a7b3c9d2-4e5f-4a8b-9c1d-2e3f4a5b6c7d"
+
+
+
+
+
 
 
